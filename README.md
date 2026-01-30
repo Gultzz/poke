@@ -24,3 +24,10 @@ Outro exemplo é as cores de cada tipo de pokemon. Na API eu não encontrei as c
 ## Autoavaliação
 
 Acredito que a parte principal eu consegui desenvolver bem, porém sem pensar muito em deixar o código muito semantico. Sem duvidas também daria para deixar o código mais limpo e bonito. Pois eu não tive muito tempo para o desenvolvimento e tentei prezar pelo resultado.
+
+---
+
+## Conclusão
+
+Foi desenvolvido a tela de listagem de pokemons no estilo de "Mostrar mais" e também a tela de detalhes do pokemon ao clicar em um card de pokemon da tela de listagem
+Também a parte de configuração/arquitetura do projeto foi bem desenvolvida e com sistema PWA
