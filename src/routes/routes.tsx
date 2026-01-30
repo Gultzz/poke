@@ -15,7 +15,7 @@ const router = createHashRouter(
     },
   ],
   {
-    basename: "/poke",
+    basename: "/poke/",
   },
 );
 
