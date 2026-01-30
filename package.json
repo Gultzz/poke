@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gultzz.github.io/poke/",
+  "homepage": "https://gultzz.github.io/poke",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
