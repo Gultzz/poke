@@ -1,10 +1,18 @@
 # React + TypeScript + Vite
 
+URL no Girhub Pages: [gultzz.github.io/poke](https://gultzz.github.io/poke/)
+
 ## Rodar o projeto
+
+Primeiramente tenha o Git baixado no seu computador, caso não tenha, base por aqui [Git Download](https://git-scm.com/install/)
+
+Após baixar e instalar o Git, abra o Git Bash e rode o comando `git clone https://github.com/Gultzz/poke.git`
+
+Depois de finalizar o clone do projeto, abra a pasta onde o seu projeto foi instalado e instale as dependencias necessárias para rodar o projeto com o comando
 
 `npm install`
 
-Depois rode
+Depois rode para rodar o projeto
 
 `npm run dev`
 
