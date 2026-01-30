@@ -103,12 +103,12 @@ Please change the parent <Route path="${e}"> to <Route path="${e===`/`?`*`:`${e}
   display: flex;
   justify-content: center;
   width: 140dvw;
-  margin-top: -105%;
+  margin-top: -100%;
   border-radius: 50%;
   aspect-ratio: 1/1;
 `,Zu=L.img`
   position: absolute;
-  width: 200px;
+  width: 140px;
   max-width: 35%;
   bottom: 0;
   transform: translateY(25%);
