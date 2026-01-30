@@ -1,10 +1,10 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + PWA
 
 URL no Github Pages: [gultzz.github.io/poke](https://gultzz.github.io/poke/)
 
 ## Rodar o projeto
 
-Primeiramente tenha o Git baixado no seu computador, caso não tenha, base por aqui [Git Download](https://git-scm.com/install/)
+Primeiramente tenha o Git baixado no seu computador, caso não tenha, baixe por aqui [Git Download](https://git-scm.com/install/)
 
 Após baixar e instalar o Git, abra o Git Bash e rode o comando `git clone https://github.com/Gultzz/poke.git`
 
