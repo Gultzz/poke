@@ -5,7 +5,7 @@ import { PokemonTypes } from "../../util/pokemon-types";
 import type { DetailedPokemon } from "../list-pokemons/list-pokemons.model";
 import * as S from "./details-pokemon.styles";
 import { CardInfo } from "../../components/card-info/card-info.component";
-import { MarsIcon, VenusIcon } from "lucide-react";
+import { MarsIcon, TriangleAlertIcon, VenusIcon } from "lucide-react";
 
 type FullDetailedPokemon = {
   abilities: {
@@ -117,6 +117,10 @@ export function DetailsPokemon() {
                   <S.DetailProgressItem>
                     <MarsIcon size={14} />
                     <S.DetailTitle>{malePercentage}%</S.DetailTitle>
+                  </S.DetailProgressItem>
+                  <S.DetailProgressItem>
+                    <TriangleAlertIcon size={14} />
+                    <S.DetailTitle>Valores mockados</S.DetailTitle>
                   </S.DetailProgressItem>
                   <S.DetailProgressItem>
                     <VenusIcon size={14} />

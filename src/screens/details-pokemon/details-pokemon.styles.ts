@@ -20,10 +20,9 @@ export const BackgroundHero = styled.div`
 
 export const ImageHero = styled.img`
   position: absolute;
-  width: 140px;
-  max-width: 35%;
+  width: 130px;
   bottom: 0;
-  transform: translateY(25%);
+  transform: translateY(35%);
 `;
 
 export const Title = styled.h1`
@@ -40,7 +39,7 @@ export const Number = styled.h1`
 
 export const ContainerInfos = styled.div`
   padding: 16px;
-  margin-top: 56px;
+  margin-top: 80px;
   width: 100%;
 `;
 
