@@ -13,14 +13,14 @@ export const BackgroundHero = styled.div`
   display: flex;
   justify-content: center;
   width: 140dvw;
-  margin-top: -105%;
+  margin-top: -100%;
   border-radius: 50%;
   aspect-ratio: 1/1;
 `;
 
 export const ImageHero = styled.img`
   position: absolute;
-  width: 200px;
+  width: 140px;
   max-width: 35%;
   bottom: 0;
   transform: translateY(25%);
