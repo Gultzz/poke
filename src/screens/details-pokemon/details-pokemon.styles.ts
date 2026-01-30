@@ -104,7 +104,7 @@ export const Progress = styled.div`
   width: 100%;
   display: flex;
   background-color: #cccccc;
-  height: 6px;
+  height: 8px;
   border-radius: 999px;
   overflow: hidden;
 `;
