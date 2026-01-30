@@ -3,16 +3,21 @@ import { RouterProvider } from "react-router/dom";
 import { ListPokemons } from "../screens/list-pokemons/list-pokemons.screen";
 import { DetailsPokemon } from "../screens/details-pokemon/details-pokemon.screen";
 
-const router = createHashRouter([
+const router = createHashRouter(
+  [
+    {
+      path: "/",
+      element: <ListPokemons />,
+    },
+    {
+      path: "/details",
+      element: <DetailsPokemon />,
+    },
+  ],
   {
-    path: "/",
-    element: <ListPokemons />,
+    basename: "/poke",
   },
-  {
-    path: "/details",
-    element: <DetailsPokemon />,
-  },
-]);
+);
 
 export function Routes() {
   return <RouterProvider router={router} />;
