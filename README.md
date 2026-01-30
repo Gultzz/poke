@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-URL no Girhub Pages: [gultzz.github.io/poke](https://gultzz.github.io/poke/)
+URL no Github Pages: [gultzz.github.io/poke](https://gultzz.github.io/poke/)
 
 ## Rodar o projeto
 
