@@ -1,9 +1,9 @@
-import { createBrowserRouter } from "react-router";
+import { createHashRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 import { ListPokemons } from "../screens/list-pokemons/list-pokemons.screen";
 import { DetailsPokemon } from "../screens/details-pokemon/details-pokemon.screen";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <ListPokemons />,
